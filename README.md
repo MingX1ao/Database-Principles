@@ -1,3 +1,9 @@
+# Creater's reminding
+
+This is SJTU CS3322 Database Principles' major project. The teachers are Prof.Lin yun & Prof.Shen Yanyan.  
+Inside the answer folder are the codes that expected.
+
+
 # 运行指南
 
 ## 目录结构
